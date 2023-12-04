@@ -15,6 +15,7 @@ fun runDay(day: Int) {
         1 -> one.main()
         2 -> two.main()
         3 -> three.main()
+        4 -> four.main()
         else -> println("Not implemented yet!")
     }
 }
